@@ -1,5 +1,6 @@
-Gocase
-======
+# Gocase
+
+[![Build Status](https://travis-ci.org/mtibben/gocase.png?branch=master)](https://travis-ci.org/mtibben/gocase)
 
 Gocase converts strings between different casing schemes.
 - Snake: `may_the_force_be_with_you`
