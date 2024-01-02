@@ -22,4 +22,4 @@ gocase.ToCamel("May the force be with you")      // MayTheForceBeWithYou
 gocase.ToLowerCamel("May the force be with you") // mayTheForceBeWithYou
 ```
 
-See http://godoc.org/github.com/mtibben/gocase for documentation.
+See https://pkg.go.dev/github.com/mtibben/gocase for documentation.
